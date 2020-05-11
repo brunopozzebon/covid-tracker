@@ -10,7 +10,7 @@ Good luck to all of us!
 You need to create a token on [MapBox](https://www.mapbox.com/), it´s free and easy to use.
 After this, you need to create a file called **.env** inside **./src**, and put the folling code
 ```bash
-TOKEN=<YOUR TOKEN>
+REACT_APP_TOKEN=<YOUR TOKEN>
 ```
 Just replace <YOUR_TOKEN>, and it shold work
 
